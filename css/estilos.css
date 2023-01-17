@@ -6,12 +6,17 @@ body
     margin:0;
     padding:0}
     
-#container
+#cabecera
 {width:70%;
     padding:1em;
     text-align:left;
     border:1px solid #ddd;
     margin:0 auto}
     
-#container h1
+#cabecera h1
 {font-size:20px}
+
+#navegacion
+{font-size:20px;
+    border:1px solid #ddd;
+color:blueviolet}
