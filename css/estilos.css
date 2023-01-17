@@ -8,6 +8,8 @@ body
     
 #cabecera
 {width:70%;
+    background: #33F;
+    color: white;
     padding:1em;
     text-align:left;
     border:1px solid #ddd;
@@ -20,3 +22,7 @@ body
 {font-size:20px;
     border:1px solid #ddd;
 color:blueviolet}
+
+#tagline
+{font-size:20px;
+color: burlywood}
